@@ -41,9 +41,6 @@ dist/
 .coverage
 htmlcov/
 
-# Data files (optional - remove if you want datasets tracked)
-
-Data/*.csv
 
 # Model files
 
