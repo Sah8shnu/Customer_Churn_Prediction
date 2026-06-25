@@ -1,0 +1,57 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# IDEs
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+
+# Test and coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data files (optional - remove if you want datasets tracked)
+
+Data/*.csv
+
+# Model files
+
+*.pkl
+*.joblib
+*.sav
+
+# Temporary files
+
+*.tmp
+*.temp
