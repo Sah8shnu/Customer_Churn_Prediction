@@ -6,7 +6,7 @@ This project explores customer churn in a telecommunications dataset and builds 
 
 ## Objectives
 
-* what customer churn is and contributing factors to it
+* What customer churn is and contributing factors to it
 * Perform data cleaning and exploratory data analysis
 * Visualize customer behavior and churn patterns
 * Train and evaluate predictive machine learning models
